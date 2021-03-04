@@ -1,16 +1,35 @@
-### Hi there 👋
+### 김한희 Kim Hanhee
+> 현재 개발을 공부하고 있는 예비 개발자입니다.
 
-<!--
-**hanheedev/hanheedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+🛠 Skills 
+----------
+#### 💻 Front-end
+- HTML5 & CSS3  
+- Bootstrap  
+- jQuery  
+- JavaScript  
+  
+#### 🔙 Back-end  
+- Java  
+- Jsp  
+  
+#### 📫 Database  
+- Oracle  
+  
+#### 👏 Others  
+- Git  
+- Github  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+👩🏻‍💻 Projects
+----------
+추가 예정
+
+<br>
+
+🌱 Link
+----------
+- [velog](https://velog.io/@hanheekim)
