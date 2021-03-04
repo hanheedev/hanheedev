@@ -3,6 +3,12 @@
 
 <br>
 
+🚀 Portfolio
+----------
+[포트폴리오](https://www.notion.so/dc2e35b5cf44417b9d1d11f4876aee57)
+
+<br>
+
 🛠 Skills 
 ----------
 #### 💻 Front-end
@@ -32,4 +38,4 @@
 
 🌱 Link
 ----------
-- [velog](https://velog.io/@hanheekim)
+🔗 [Velog](https://velog.io/@hanheekim)
