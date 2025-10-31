@@ -1,11 +1,11 @@
 ### 김한희 Kim Hanhee
-> 자바 웹개발자 경력 3년차 개발자입니다.
+> 자바 웹개발자 경력 4년차 개발자입니다.
 
 <br>
 
 🚀 Portfolio
 ----------
-[포트폴리오](https://www.notion.so/dc2e35b5cf44417b9d1d11f4876aee57)
+[포트폴리오](https://www.notion.so/29ddb2db2cbc80d281bad6b65cd608b8?source=copy_link)
 
 <br>
 
